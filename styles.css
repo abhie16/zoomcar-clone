@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h3{
+  font-size: 1rem;
+}
+
+p{
+  font-size: 0.8rem;
+}
+
+footer{
+  text-align: center;
+  background-color: #f5f5f5;
+  padding-bottom: 1%;
+  font-size: 0.8rem;
+}
+/* navbar */
+
+.navbar{
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  z-index: 1;
+}
+
+
+.bg-img{
+  padding-top: 0;
+  margin-top: 0;
+  width: 100%;
+}
+
+/* form */
+
+
+/* image-section */
+
+.img-section{
+  margin: 5% 14%;
+}
+ .card{
+   margin-top: 2%;
+   margin-bottom: 2%;
+ }
+
+ .card1{
+border: 1px solid   #e6e6e6;
+border-radius: 5px;
+background-color: white;
+margin: 1%;
+flex: 1;
+
+ }
+
+.card01{
+padding: 7% 10%;
+  background-color: #f5f5f5;
+  display: flex;
+justify-content: flex-end;
+}
+
+.clearfix{
+}
+
+ .img-card{
+   width: 125px;
+ }
+
+.offer-card{
+  font-size: 1rem;
+  color: grey;
+}
+
+ .offers{
+   padding: 5% 10%;
+ }
+
+.offer-col{
+  padding: 2%;
+}
+
+.about-section{
+ text-align: center;
+  margin: 1% auto 1% auto;
+}
+
+.cta{
+  background-color: #f5f5f5;
+  padding: 1% 15% 1% 15%;
+}
+
+.info{
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
